@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 READ.ME
+*.py~
+*.gitignore~
 
 # C extensions
 *.so
